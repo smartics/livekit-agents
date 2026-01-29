@@ -1,0 +1,51 @@
+{
+  "room_name": "QPmsMhXT7HTnBgSYbJEHqyCyQtyTWjng",
+  "started_at": "19:52:22",
+  "ended_at": "23:13:30",
+  "duration_info": "See timestamps for duration",
+  "total_participants": 4,
+  "total_turns": 3032,
+  "total_words": 27947,
+  "participants": {
+    "Anton": {
+      "identity": "Anton",
+      "name": "Anton",
+      "joined_at": "19:52:22",
+      "left_at": "23:12:04",
+      "word_count": 3282,
+      "turn_count": 435,
+      "characters": 18444,
+      "avg_words_per_turn": 7.5
+    },
+    "Handler": {
+      "identity": "Handler",
+      "name": "Handler",
+      "joined_at": "19:53:14",
+      "left_at": "23:13:12",
+      "word_count": 13863,
+      "turn_count": 1317,
+      "characters": 79663,
+      "avg_words_per_turn": 10.5
+    },
+    "Stefan": {
+      "identity": "Stefan",
+      "name": "Stefan",
+      "joined_at": "20:03:07",
+      "left_at": "23:12:12",
+      "word_count": 5667,
+      "turn_count": 698,
+      "characters": 31790,
+      "avg_words_per_turn": 8.1
+    },
+    "Michael": {
+      "identity": "Michael",
+      "name": "Michael",
+      "joined_at": "20:03:23",
+      "left_at": "23:12:04",
+      "word_count": 5135,
+      "turn_count": 582,
+      "characters": 29480,
+      "avg_words_per_turn": 8.8
+    }
+  }
+}
