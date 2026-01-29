@@ -1,0 +1,14 @@
+{
+  "words": {
+    "Handler": "color: #5dade2; font-weight: bold;",
+    "Michael": "color: #9b59b6; font-weight: bold;",
+    "Stefan": "color: #f1c40f; font-weight: bold;",
+    "Anton": "color: #e74c3c; font-weight: bold;"
+  },
+  "lines": {
+    "Handler": "background-color: rgba(93, 173, 226, 0.1);",
+    "Michael": "background-color: rgba(155, 89, 182, 0.1);",
+    "Stefan": "background-color: rgba(241, 196, 15, 0.1);",
+    "Anton": "background-color: rgba(231, 76, 60, 0.1);"
+  }
+}
