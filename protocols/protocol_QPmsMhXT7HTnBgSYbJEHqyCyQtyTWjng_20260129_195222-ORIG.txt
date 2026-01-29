@@ -6,15 +6,18 @@ STT Provider: deepgram
 
 [19:52:22] >>> Anton joined the meeting
 
+
 [19:53:03] <<< Anton left the meeting
 
 [19:53:08] >>> Anton joined the meeting
 
 [19:53:14] >>> Handler joined the meeting
 
+
 [19:54:57] <<< Anton left the meeting
 
 [19:55:04] >>> Anton joined the meeting
+
 
 [19:55:30] <<< Anton left the meeting
 
@@ -48,17 +51,21 @@ STT Provider: deepgram
 [20:00:26] Anton: Super.
 [20:00:26] Handler: Und ich hab den Tanz gemacht.
 [20:00:30] Handler: Ich hab alles auf aus und wieder auf angemacht.
+
 [20:00:38] <<< Anton left the meeting
 
 [20:00:47] >>> Anton joined the meeting
+
 
 [20:01:15] <<< Anton left the meeting
 
 [20:01:21] >>> Anton joined the meeting
 
+
 [20:01:48] <<< Anton left the meeting
 
 [20:01:53] >>> Anton joined the meeting
+
 
 [20:02:09] <<< Anton left the meeting
 
@@ -79,15 +86,18 @@ STT Provider: deepgram
 [20:03:23] Anton: Ich sehe Stefan.
 [20:03:31] Anton: Und Michi.
 [20:03:43] Anton: Kind of rolled out.
+
 [20:04:17] <<< Handler left the meeting
 
 [20:04:22] >>> Handler joined the meeting
+
 
 [20:04:31] <<< Stefan left the meeting
 
 [20:04:37] Anton: Definitely.
 [20:04:49] Anton: Ein, zwei, drei Test. Ich spreche ich spreche, damit ihr mich hören könnt.
 [20:04:59] >>> Stefan joined the meeting
+
 
 [20:05:03] <<< Handler left the meeting
 
@@ -117,7 +127,9 @@ STT Provider: deepgram
 [20:07:28] Anton: die oben
 [20:07:29] Anton: der screenshot smiling.
 [20:08:20] Handler: Oh, man, das ist ein Trets mit dem Sinn.
+
 [20:08:30] <<< Stefan left the meeting
+
 
 [20:08:57] <<< Michael left the meeting
 
@@ -194,6 +206,7 @@ STT Provider: deepgram
 [20:11:48] Michael: Nee, Quatsch, also ja,
 [20:11:48] Michael: ich hör ja auch nicht hier, Robert.
 [20:11:50] Anton: Yeah. Come
+
 [20:11:53] <<< Stefan left the meeting
 
 [20:11:55] Anton: Come
@@ -218,6 +231,7 @@ STT Provider: deepgram
 [20:12:45] Anton: Ich glaube, wir müssen reihum jeden, bei dem nicht alles geht. Der muss
 [20:12:46] Anton: diese Spielchen machen mit diesen
 [20:12:53] Anton: disable disable layer safe
+
 [20:12:53] <<< Handler left the meeting
 
 [20:12:53] Anton: reload, enable, enable, enable, fürchte ich.
@@ -227,6 +241,7 @@ STT Provider: deepgram
 [20:13:06] Michael: Dankeschön.
 [20:13:16] Anton: Wie alt bist Du eigentlich geworden?
 [20:13:18] Michael: Einundvierzig.
+
 [20:13:18] <<< Handler left the meeting
 
 [20:13:19] Anton: Ach so.
@@ -241,6 +256,7 @@ STT Provider: deepgram
 [20:13:37] >>> Stefan joined the meeting
 
 [20:13:40] Anton: So
+
 [20:13:42] <<< Handler left the meeting
 
 [20:13:43] >>> Handler joined the meeting
@@ -377,6 +393,7 @@ STT Provider: deepgram
 [20:19:41] Handler: Fang ich an.
 [20:19:43] Anton: Robert sagt, er fängt an.
 [20:19:48] Handler: Also
+
 [20:19:48] <<< Handler left the meeting
 
 [20:19:50] Anton: Erst mal nur reload.
@@ -388,6 +405,7 @@ STT Provider: deepgram
 [20:20:04] Stefan: Okay, hier gibt's Logout, dann drücke ich den das nächste Mal mal sehen, was dann passiert.
 [20:20:06] Michael: Müsst Du, Refresh von der Seite müsst Du doch auch erreichen, oder?
 [20:20:16] Anton: Ja, nicht ganz. Es gibt noch dieses wenn Du den Entwicklermodus anhast, dann kannst Du mit der
+
 [20:20:18] <<< Handler left the meeting
 
 [20:20:19] Anton: Maustaste ein, da musst Du vorher f zwölf drucken für den Entwicklermodus.
@@ -456,6 +474,7 @@ STT Provider: deepgram
 [20:22:28] Anton: nach Cash lernen kann sein, dass Du Push to Talk wieder machen musst, nur also Erinnerung.
 [20:22:30] Michael: Also, ich hab eine Petition,
 [20:22:33] Anton: Yeah.
+
 [20:22:33] <<< Stefan left the meeting
 
 [20:22:36] Anton: Pretty clear that.
@@ -486,6 +505,7 @@ STT Provider: deepgram
 [20:23:57] Anton: Ich würde sagen, wir bewegen uns nicht mehr,
 [20:23:58] Anton: Stefan muss irgendwie Klemmzüge machen.
 [20:24:04] Handler: Michi, Du hörst ihn auch nicht, oder?
+
 [20:24:09] <<< Stefan left the meeting
 
 [20:24:09] Handler: Damn.
@@ -515,6 +535,7 @@ STT Provider: deepgram
 [20:25:23] Handler: War verboten oder was?
 [20:25:28] Handler: Sofort hab ich gesagt.
 [20:25:31] Handler: Ach Gott.
+
 [20:25:33] <<< Stefan left the meeting
 
 [20:25:43] >>> Stefan joined the meeting
@@ -556,6 +577,7 @@ STT Provider: deepgram
 [20:27:41] Handler: hat uns noch irgend so ein Video eingespielt von heute Nachmittag
 [20:27:42] Handler: und ist jetzt tatsächlich was anderes machen.
 [20:27:43] Michael: jetzt ist auch Standbild gleich bei ihm.
+
 [20:27:44] <<< Stefan left the meeting
 
 [20:27:44] Anton: Yeah.
@@ -581,6 +603,7 @@ STT Provider: deepgram
 [20:29:02] Handler: Was hat Michi gesagt?
 [20:29:05] Michael: What?
 [20:29:16] Handler: Zwanzig Uhr siebenundzwanzig, das war von zwei Minuten.
+
 [20:29:18] <<< Stefan left the meeting
 
 [20:29:21] Handler: I'm gonna suck the electronics. Was könntest Du gesagt haben?
@@ -594,6 +617,7 @@ STT Provider: deepgram
 [20:29:54] Michael: Ach,
 [20:29:55] Michael: nein.
 [20:30:03] Michael: Hab mir extra ein Spezies gegönnt, natürlich Cerro.
+
 [20:30:06] <<< Stefan left the meeting
 
 [20:30:06] Michael: Meine Spezies ist Spitze.
@@ -2382,762 +2406,12 @@ STT Provider: deepgram
 [22:23:42] Stefan: Okay. No good.
 [22:23:52] Handler: kannst oder so was. Also das kannst Du alles machen, aber da brauchst Du eigentlich nicht drüber reden. Wenn es wenn es Dinge sind, wo man das Gefühl hat, weiß man nicht, ob man das dabei hat, muss halt vielleicht 'n Luckroll machen oder gegen deine Profession Skill würfeln oder so was,
 [22:23:53] Handler: dass man sagt, ah ja, okay, hast Du dabei?
-[22:24:06] Handler: Aber wenn Du jetzt sagst, irgendwas zum Beispiel für für deine Pharmazie oder so was, möchtest Du irgendwas machen? Und es ist jetzt nicht irgendwie hochteuer und hochverderbli ch oder so was, dann hast Du das einfach
-[22:24:07] Handler: mitarbeiten. So ist dann dein
-[22:24:17] Stefan: Yeah. Yeah. Ginawi, he ich hätte also immer sone Umhängetasche oder eine Hüfttasche oder irgendwie so was. Wo tatsächlich so ein bisschen Zeug drin ist, wo also auch eine Adrena linspritze drin ist und es gibt
-[22:24:17] Handler: Mhmm.
-[22:24:23] Stefan: so ein Gegenmittel gegen die Überdosis vom Fentanyl und so was, hätte
-[22:24:29] Handler: Yep.
-[22:24:30] Stefan: ich da auch halt drinnen 'n Spritzchen und halt so 'n paar Sachen
-[22:24:36] Stefan: quasi Riechsalz oder was man halt so braucht ein Schmerzmittel ein heftiges
-[22:24:38] Stefan: son paar pharmazeutische Dinger sind da halt drin und
-[22:24:49] Handler: Genau. Also alles, was halt irgendwie nicht irgendwie alle, was sich nicht so ein Universalgegengift gegen Schlangengift oder so was, was teuer ist und
-[22:24:51] Handler: sowas, sondern einfach allerhand Mittel, die man halt braucht für Pharmazie.
-[22:25:07] Stefan: Ja, und son bisschen speziell eben für für Drogen. Da hab ich ja son bisschen mein Familientrauma Und wie gesagt, es gibt ein Mittel gegen Fentanylüberdosis, das vielleicht bei anderer Überdosis hilft oder halt 'n Adrenalin, wenn der Kreislauf versagt und so
-[22:25:08] Handler: Alles klar.
-[22:25:10] Stefan: was, dann hätt ich das halt dabei, was jetzt wahrscheinlich beim FBI nicht so rumliegt.
-[22:25:13] Stefan: Einmal, okay, gut.
-[22:25:14] Handler: Gut.
-[22:25:18] Handler: Also es ist Nacht,
-[22:25:21] Handler: Wir sehen aus der Vogelperspektive,
-[22:25:30] Handler: schauen wir auf einen Wald. Durch diesen Wald fährt ein Zug, ein ein ein Güterzug.
-[22:25:40] Handler: Mit schneller Geschwindigkeit. Ihr seht in einer Einstellung einen Bahnübergang, wo dieses Kreuz ist,
-[22:25:42] Handler: das stark mit Frost, also Eis
-[22:25:45] Handler: überzogen ist. Ihr hört, wie dieser Zug anrollt
-[22:26:03] Handler: Es diese Glocken von diesen Bahnübergangs die da so langsam runtergehen, die Lichter, die da da so blinken, Und ihr seht dann, wie dieser Zug angerauscht kommt, und mit, ja, no rmaler Zug, schneller Geschwindigkeit
-[22:26:15] Handler: eben an diesen Bahnübergang vorbeirazt. Und ihr schaut diesen Zug dann so nach und ihr seht, wie ihr da auch wieder durch Waldgebiete fährt, aber hier immer rechts
-[22:26:16] Handler: oder links irgendwie schon mal son Häuschen ist, son einzelnes Häuschen.
-[22:26:22] Handler: Und ihr seht dann aus einer
-[22:26:24] Handler: Perspektive,
-[22:26:27] Handler: von hinten einen Porsche Cayenne,
-[22:26:30] Handler: wo die Rücklichter rot aufleuchten.
-[22:26:39] Handler: Und ihr hört auch hier an der Stelle, also es ist jetzt wieder weiter, sozusagen an dieser Zugsehe hört ja diesen gleichen Zug wiederkommen.
-[22:26:40] Handler: Wie der Zug da sozusagen angerauscht kommt.
-[22:26:54] Handler: Und dieser Porsche, der steht, weiß ich nicht, sind so auf soner Brach in irgendeinem Garten, da sind auch irgendwie noch Büsche davor. Ihr könnt auf diese Gleise sehen. Ihr ha bt es
-[22:26:58] Handler: Gefühl, dass da links und rechts auch wieder vereinzelt irgendwelche Häuser stehen.
-[22:27:06] Handler: Und ihr seht jetzt dieses Licht, dieses Zuges auf euch zukommen. Und diese Gleise, die führen also ziemlich direkt
-[22:27:21] Handler: an diesem Grundstück, wo dieser Porsche steht, vorbei und mit einem Knall fährt dieser Zug sozusagen an der Stelle vorbei und ihr hört dieses wie dieser Zug sozusagen hier an d er
-[22:27:24] Handler: Szene vorbeirauscht mit sehr viel Geräuschkulisse
-[22:27:27] Handler: und diese Geräuschkulisse nimmt langsam ab.
-[22:27:33] Handler: Also der Zug entfernt sich. Und diese diese Kameraeinstellung, die grade noch von hinten diesen Porsche
-[22:27:41] Handler: gezeigt hat, die fährt irgendwie so rüber. Und sie zeigt an auf der Fahrerseite das Gesicht eines Mädchens
-[22:27:41] Handler: das irgendwie so in die in die Ferne start.
-[22:27:46] Handler: Und plötzlich macht es so ploppt
-[22:27:54] Handler: und ihr seht sozusagen in ihren Augen wiederscheinend so Flammen.
-[22:27:57] Handler: Also als ob irgendwie was sich angezündet hat.
-[22:28:04] Handler: Und diese Flammen, die nehmen nehmen dann immer mehr zu und ihr zieht euch sozusagen so raus und ihr seht, dass dieses Mädchen einfach immer noch Timer am
-[22:28:05] Handler: los daliegt und höchstwahrscheinlich tot ist.
-[22:28:11] Handler: Die Kamera zoomt zoomt dann raus.
-[22:28:15] Handler: Und ihr seht dann von oben, wie dieser Porsche brennt.
-[22:28:19] Handler: Ihr seht dann an der
-[22:28:23] Handler: rechten Seite, wie in einem Haus plötzlich ein Licht angeht.
-[22:28:42] Handler: Und kurze Zeit später hört ihr dann Feuerwehr kommen. Also die Feuerwehr, die dann so mit ihrem Sirenen so langsam anrollt Und in der nächsten Einstellung seht ihr, wie dann so Löschzüge kommen, und sich um dieses Auto in diesem Vorgarten oder nach Land, was
-[22:28:43] Handler: es da auch immer ist, sich platziert haben und dann dieses Feuer löschen.
-[22:28:53] Anton: Mhmm.
-[22:28:58] Handler: Und die nächste Einstellung ist am Tag. Ihr seht, wie irgendwie Mediziner oder was auch immer aus diesem
-[22:29:03] Handler: Porsche, verbrannten Porsche eine verbrannte Leiche ziehen?
-[22:29:07] Handler: Ihr seht dort
-[22:29:14] Handler: dass Polizeibeamte oder Sheriff oder so was da am Tatort
-[22:29:16] Handler: stehen, dass der Tatort abgesperrt ist.
-[22:29:18] Handler: Ihr seht das Gesicht eines jungen Sergeants.
-[22:29:23] Handler: Der mit den Kollegen spricht, nickt und zum Telefon greift.
-[22:29:32] Handler: Es ist
-[22:29:33] Handler: heute
-[22:29:35] Handler: der
-[22:29:38] Handler: Achtzehnte
-[22:29:43] Handler: und bei Wesley klingelt das Telefon.
-[22:29:52] Handler: Es ist
-[22:29:55] Stefan: Ganz kurz noch, das Mädchen hat raus
-[22:29:55] Stefan: ausm Auto nach vorne oder zur Seite?
-[22:30:03] Handler: So am Seitenfenster rausgeschaut. Also so
-[22:30:04] Handler: könntest Du dir vorstellen, dass es irgendwie so lag und so geschaut hat.
-[22:30:05] Handler: Also einfach
-[22:30:06] Stefan: Und hatte da ja schon den leblosen Eindruck.
-[22:30:07] Handler: Genau.
-[22:30:11] Stefan: Okay, und gebrannt hat zum Schluss das Auto.
-[22:30:17] Handler: Liegt hallo. Die Feuerwehr kam und hat das gelöscht.
-[22:30:24] Stefan: Und könnte das auf der an der Motorhaube
-[22:30:25] Stefan: angefangen haben und das hat sich in ihren Augen gespiegelt.
-[22:30:31] Stefan: Okay.
-[22:30:33] Handler: Ja, so genau weißt Du nicht, wo sie wo es gespiegelt hat oder so.
-[22:30:34] Handler: Du hast es einfach nur gesehen, dass es angefangen hat und
-[22:30:36] Stefan: Aber irgendwie so flackernde Flammen hat man irgendwie den Eindruck,
-[22:30:39] Stefan: Ja gut, ich geh ans Telefon.
-[22:30:41] Stefan: Brauch mich denn aus?
-[22:30:43] Handler: Let's
-[22:30:50] Stefan: Ja, hallo. Was ist der Verwaltung auf der FBI?
-[22:30:52] Handler: Ja, Entschuldigung. Genau, Du kriegst gleich eine Antwort
-[22:30:55] Handler: Die stehen alle wieder auf.
-[22:31:06] Handler: Erflexst Du, hab ich das Ah, hier hab ich's auf. Nein, das ist falsch.
-[22:31:10] Handler: Das ist falsch, das ist falsch.
-[22:31:19] Handler: Eine Sekunde, Pinkelpause.
-[22:31:36] Handler: Hier drunter, direkt drunter.
-[22:31:45] Handler: Ja, Du nimmst ab und hast dich gemeldet grade.
-[22:31:46] Handler: Du hörst, hier ist Sergeant Gallows von der vom Casey Police Office.
-[22:31:59] Handler: Ich wurde grade durchgestellt von der Zentrale zu Ihnen, weil ich hab
-[22:32:06] Handler: ein letzte Nacht ein totes Mädchen, ein brennenden Porsche Cayenne. In der zweiundzwanzig zwanzig Morrison Warren Buffett.
-[22:32:11] Handler: Avenue gefunden.
-[22:32:13] Handler: Unserem Zuständigkeitsbereich gefunden. Ich leite die Untersuchung
-[22:32:19] Handler: Ich habe Indizien, dass es sich bei dem Opfer um Lena Terrence handelt.
-[22:32:25] Handler: Das Mädchen wurde letzten Sommer als vermisst gemeldet, dann aber als Runaway eingeschränkt.
-[22:32:31] Handler: Nachdem die Eltern einen Abschiedsbrief gefunden hatten. Wenn es sich um Lena handelt, hab ich den Verdacht, dass wir möglicherweise es mit einem Serientäter
-[22:32:32] Handler: zu tun haben könnten.
-[22:32:39] Handler: Wir haben hier leider im Caseyville nicht
-[22:32:44] Handler: die notwendige Ausrüstung, um die Spuren angemessen sicherzustellen. Und der Corona meinte,
-[22:32:50] Handler: dass Sie in Ihrem Labor einen forensischen DNA Test innerhalb von vierundzwanzig Stunden durchführen könnten. Außerdem hab ich einige eine einigermaßen ausgebrannten Porsche, die ich
-[22:32:54] Handler: gerne in Ihrem Labor untersuchen lassen würde. Könnten Sie uns dann unter die Arme
-[22:32:55] Handler: Ich würde gerne ausschließen, es sich um einen sehr entäter handelt.
-[22:33:01] Stefan: Ja, natürlich.
-[22:33:02] Stefan: Macht Sinn. Jetzt muss ich noch mal fragen,
-[22:33:07] Handler: Ich bin vom Casey Police Office. Casey Police Office.
-[22:33:14] Handler: Der Ort war zweiundzwanzig zwanzig Morrison Avenue.
-[22:33:15] Stefan: Okay.
-[22:33:16] Handler: Hat den Zusatz Waln Buffett, warum auch immer.
-[22:33:17] Handler: Dort ist der
-[22:33:25] Stefan: Dann schlag ich vor, ich komm mit 'n paar Kollegen vorbei und wir starten mal die Beweis
-[22:33:26] Stefan: oder?
-[22:33:28] Stefan: Sollen wir
-[22:33:40] Handler: Ja, wir haben schon wir wir haben schon die gleiche der Corona hat die Leiche schon mitgenommen, weil wir können die ja nicht ewig da liegen lassen. Der Porsche steht da, der ist momentan bewacht, wenn der möglichst schnell
-[22:33:42] Handler: abgeholt werden könnte, wäre
-[22:33:42] Handler: wäre gut.
-[22:33:47] Stefan: Mhmm. Okay.
-[22:33:48] Stefan: Haben Sie eine Fallnummer für uns und dann
-[22:33:49] Stefan: wir vorbei.
-[22:33:54] Handler: Gut, gibt dir die Fallnummer durch, er gibt
-[22:33:55] Handler: dir seine Telefonnummer, falls Du Rückfragen hast.
-[22:34:09] Handler: Ich kann Ihnen auch noch hier einen kleinen Zusammenfassung schicken von den Personen, von denen ich glaube, dass
-[22:34:10] Handler: sie möglicherweise Opfer eines Serientäters geworden sind?
-[22:34:17] Handler: Wenn Sie mir
-[22:34:18] Handler: was weiß ich, die Zugangsdaten oder so was gern, schick ich's Ihnen zu.
-[22:34:21] Stefan: Ja, natürlich. Gerne.
-[22:34:27] Stefan: Wie wie so
-[22:34:31] Stefan: wie wie inwiefern haben Sie schon mit dem Serienkiller zu tun?
-[22:34:32] Stefan: Also ich dachte, bisher geht es um eine Vermisste.
-[22:34:37] Handler: Ja, ja, aber ich ich sehe ein Muster und ich möchte aus
-[22:34:38] Handler: dass es ein Serienkiller ist und ich möchte
-[22:34:41] Stefan: Okay, ja, ja, klar, natürlich. Und die waren alle dann bei Ihnen in der Gegend
-[22:34:42] Stefan: Ihrem Zuständigkeitsbild?
-[22:34:45] Handler: genau und und ich würde Ihnen einfach
-[22:34:49] Handler: Akte zuschicken, dann können Sie sich das sozusagen schon mal
-[22:34:50] Handler: schwarz auf weiß anschauen. Und vielleicht können Sie ja auch da schon Entwarnung geben.
-[22:34:55] Stefan: Ja, okay. Ja, klar, schauen wir uns an.
-[22:34:56] Stefan: Frage kurz, wie flur ist es?
-[22:34:58] Stefan: Im Ding.
-[22:34:59] Handler: Es ist
-[22:35:02] Handler: Sekunde.
-[22:35:06] Handler: Glaube, fünfzehn Uhr dreißig.
-[22:35:08] Stefan: Und wie weit ist dieser Ort weg?
-[22:35:13] Handler: Da müsst ihr auf Google auf gucken.
-[22:35:15] Stefan: Dessen Stadtteil in St. Louis ist das.
-[22:35:19] Handler: Na ja, das ist außerhalb.
-[22:35:23] Handler: Das ist wahrscheinlich so ähnlich wie, weiß ich nicht,
-[22:35:24] Handler: unter Hacking von München oder irgendwie so was in den drin.
-[22:35:26] Stefan: Gut, die haben also große Städte, also Fährmalstunde hin oder so was.
-[22:35:28] Handler: Ich vermute, kann man nachher noch
-[22:35:31] Stefan: Mhm, okay.
-[22:35:31] Handler: kann man nachher noch genau gucken.
-[22:35:36] Handler: Und ich finde natürlich wieder meine Aufzeichnung nicht
-[22:35:45] Handler: Drei, genau, fünfzehn Uhr dreißig ist es ungefähr.
-[22:35:49] Stefan: Mhmm. Okay.
-[22:35:49] Handler: Als Erdo.
-[22:35:52] Stefan: And
-[22:35:55] Handler: Mhmm.
-[22:35:55] Stefan: der Wagen ist also da im zweiundzwanzig Warren Buff Drive.
-[22:35:58] Handler: Mhmm.
-[22:35:59] Handler: Avenue. Avenue.
-[22:36:01] Stefan: Und
-[22:36:06] Stefan: Avenue und war das
-[22:36:06] Stefan: hat das irgend hat der Ort irgendeine Verbindung zu Lea Terence oder wo kamen die hier eigentlich?
-[22:36:11] Handler: Das sagt er dir.
-[22:36:16] Handler: Die kommt aus dem aus dem Nachpiloft oder so.
-[22:36:19] Handler: Also die kommt um in der Umgebung.
-[22:36:20] Handler: Also in der Umgebung von Casey Will.
-[22:36:27] Stefan: Okay. Schicken Sie mal die Sachen überlesen's durch, da wird ja auch drinstehen, wem das Grundstück
-[22:36:30] Stefan: gehört oder wer in der Gegend
-[22:36:32] Stefan: das Auto genau gefunden wurde und so.
-[22:36:37] Stefan: Ja, dann weiß ich nicht, wie lange sind Sie heute noch erreicht
-[22:36:38] Stefan: dann kämen wir heute noch vorbei, oder?
-[22:36:41] Stefan: Okay.
-[22:36:52] Handler: Na, es wär mir ganz wichtig, wenn Sie dann heute noch vorbeikommen würden. Ich würde auch gerne unseren Corona da mitschicken, dass sie vielleicht das auch im Labor begleiten kann oder so was, weil sie vielleicht
-[22:36:53] Handler: hat ja schon paar Untersuchungen gemacht und vielleicht kann sie in ihrem Labor dann auch unterstützen.
-[22:36:54] Stefan: Ja, klar. Super.
-[22:37:01] Stefan: Okay, ja. Mach mal, wo können wir Sie finden? Ruf ich
-[22:37:03] Stefan: Sie einfach an, wenn wir in der Gegend sind oder sollen wir auf Präsidium verbannen?
-[22:37:10] Handler: Wenn Sie mir sagen, wann Sie da sind, ich wahrscheinlich auch vor Ort und bin wahrscheinlich der, der auch auf das
-[22:37:11] Handler: auf den Porsche ausgebrannten Porsche aufpasst.
-[22:37:19] Handler: Zweiundzwanzig zwanzig.
-[22:37:20] Stefan: Ach so, okay, alles klar, dann treffen wir uns Zweiundzwanzig Morrison Von Buffett Avenue.
-[22:37:22] Stefan: Und wir rufen nun kurz vorher an, bis wir dort sind und
-[22:37:23] Stefan: okay, ja.
-[22:37:24] Handler: Mhm. Genau.
-[22:37:27] Stefan: Ja, passt, wird klein bisschen dauern, eineinhalb Stunden oder so was, dann sind wir da.
-[22:37:30] Handler: Nee, super. Wenn das heute noch funktioniert wäre, Klasse.
-[22:37:32] Stefan: Hm? Nee, krieg mal
-[22:37:34] Handler: Okay.
-[22:37:35] Stefan: Okay, dann ist bald.
-[22:37:37] Stefan: Yeah.
-[22:37:37] Handler: You.
-[22:37:38] Handler: On with a hand.
-[22:37:40] Stefan: Click
-[22:37:42] Stefan: Yeah.
-[22:37:44] Stefan: Menna.
-[22:37:48] Stefan: Die sind grade mit dem Büro, oder?
-[22:37:58] Stefan: Dann erzähl ich halt, dass da irgendwie 'n ausgebrannter Porsche ist mit 'ner Leiche drin von
-[22:38:01] Stefan: wohl einer jungen weiblichen Frau oder Mädchen.
-[22:38:05] Stefan: Es wird vermutet, dass es vielleicht eine Vermisste ist,
-[22:38:11] Stefan: und aus irgendwelchen Gründen ist die Lokal, der ist einfach die lokale Polizei
-[22:38:14] Handler: Mhmm. Hello?
-[22:38:19] Stefan: war das jetzt einfach die angerufener Du. Okay? Und die lokale Polizei,
-[22:38:25] Stefan: vermutet aber, dass das ein Serienkiller sein kann. Der will die Daten auch schicken. Vielleicht machen wir kurz Down in Kino und dann fahren wir mal los und schauen uns das
-[22:38:30] Stefan: Auto an. Der Corona kommt auch noch mit und sagt uns, was er so weiß.
-[22:38:34] Stefan: Oder
-[22:38:35] Stefan: ich alleine hinfahren oder
-[22:38:41] Michael: Wir haben ja momentan jetzt auch nix
-[22:38:42] Michael: Akuteres zu tun oder?
-[22:38:56] Handler: Denke auch, ja. Also Sie habt da die Freiheit zu sagen, ja, das ist jetzt der Fall, da wurde ja auch zugeteilt, also er hat ja sozusagen in der Zentrale angerufen, die weisen das auch entsprechend zu nach Fertigkeiten oder was auch immer.
-[22:38:57] Handler: Und der kommt dann bei euch auf und man geht davon aus, dass ihr euch jetzt sozusagen um diese
-[22:38:59] Handler: diese Geschichte kümmert.
-[22:38:59] Michael: Wie weit ist es entfernt?
-[22:39:04] Handler: Das ist zweiundzwanzig zwanzig Morrison.
-[22:39:13] Handler: In in der Nähe von Stück Louis. Das könntet ihr euch mal kurz Also ich hab bald hier den Ort ange
-[22:39:14] Handler: Seht ihr den Ort eigentlich schon? Nein.
-[22:39:16] Anton: Right.
-[22:39:18] Stefan: Ach, mach mal wieder
-[22:39:21] Michael: Eher son bisschen Remoter geklungen, also ländlicher halt.
-[22:39:26] Handler: Ja, es ist ländlicher, aber es ist, glaub
-[22:39:27] Handler: ich, nicht allzu weit weg. Ich schau mal, ob ich euch da
-[22:39:29] Anton: Ich hab den Google Maps irgendwie nicht gefunden, vielleicht schreib ich irgendwas falsch.
-[22:39:35] Michael: No.
-[22:39:36] Michael: Yep.
-[22:39:37] Handler: Du müsstest es gleich sehen. Ihr ihr seid jetzt da drauf.
-[22:39:38] Handler: Ich zieh vielleicht auch noch
-[22:39:39] Stefan: Na, Moment, warte, ich bin noch dabei auf diesen, wo's unser gemeinsames
-[22:39:44] Stefan: Ist das weg? Das war doch immer bei Journal, oder?
-[22:39:47] Anton: This gets I don't know.
-[22:39:48] Stefan: Ach, jetzt noch hat sich der Hintergrund geändert.
-[22:39:52] Anton: Das gemeinsame Browser übrigens ist noch nicht umgezogen, Robert. Co Browsing gibt's noch nicht.
-[22:39:53] Handler: Oh, okay.
-[22:39:54] Stefan: Ach, genau, das hab ich jetzt grad gesucht, ja.
-[22:39:59] Handler: Gut, ich hab jetzt mal eure
-[22:40:01] Handler: Figuren, die sind natürlich jetzt bei dieser Auflösung
-[22:40:02] Handler: nicht grade groß.
-[22:40:08] Handler: Also man muss jetzt nicht auf die Dings machen, weil nur, dass wenn ihr doppelklicken wollt oder so was,
-[22:40:09] Handler: dass ihr da
-[22:40:11] Handler: euch an der Stelle findet.
-[22:40:16] Handler: Also das ist der Ort. Und wie ging das mit dem Alt?
-[22:40:18] Anton: Aber ich seh noch keinen Namen von dem Ohr, ich kann der kleiner machen.
-[22:40:25] Handler: Oben steht zweiundzwanzig zwanzig Morrison.
-[22:40:29] Handler: WB steht für Waren Buffet, hab ich gefunden.
-[22:40:32] Handler: Und weiß aber nicht, das Ding heißt eigentlich Morrison Avenue.
-[22:40:33] Handler: Ich kann dir die Koordinaten sagen.
-[22:40:35] Anton: Nein, passt. Zwei zwei zwei null.
-[22:40:36] Michael: Und wie weit ist das ungefähr entfernt?
-[22:40:40] Michael: Also mit dem Auto, also wie lang braucht Du da hin?
-[22:40:43] Handler: Das kann dir Anfang, glaub ich, gleich sagen.
-[22:40:47] Anton: Yeah. I copy.
-[22:40:54] Handler: Das hier wären die Koordinaten.
-[22:40:57] Handler: Weiß nicht, ich bin noch immer auf dem Wessling.
-[22:41:02] Anton: Him and hergot.
-[22:41:07] Handler: Und ich versuche noch rauszufinden, wo dieser Handout ist.
-[22:41:11] Anton: Route planen.
-[22:41:15] Anton: Das ist hier. Ach, das ist ja in anderen Bundesstaat.
-[22:41:18] Handler: Yeah. Was in Illinois.
-[22:41:20] Anton: Hab ich jetzt nicht ganz
-[22:41:26] Handler: Genau, ihr seid in Missouri, oder?
-[22:41:28] Handler: Die andere Seite ist Illinois.
-[22:41:36] Anton: Ich find grade unser unser Hauptquartier nicht exakt
-[22:41:37] Anton: aber wir brauchen ungefähr zweiundzwanzig Minuten hin.
-[22:41:39] Stefan: Mhmm.
-[22:41:45] Handler: Also ich vermute, das ist ungefähr, wie auch
-[22:41:46] Handler: unter Hacking ist von Stadtmitte, unter Hacking ist nicht so.
-[22:41:48] Anton: Yeah.
-[22:41:52] Handler: So, und ich
-[22:41:57] Anton: Halbe Stunde. Du fragst also halbe Stunde würd ich also
-[22:42:07] Stefan: Okay. Wenn die Daten da sind oder eher Zugriff auf seinen Fall oder ich weiß nicht, ob es da ein gemeinsames Systemgeboomer reinschaut,
-[22:42:15] Stefan: oder ob da einfach was per Email kommt oder was. Ja, dann können wir uns schon auch eine Viertelstunde, um da mal durchzuschauen, je nachdem, wie viel das ist.
-[22:42:17] Handler: Mhmm.
-[22:42:18] Stefan: Und mich würde interessieren, wie
-[22:42:25] Anton: Desmostrar, vamos realizar hast, Robert, ihr seht, blaulau, das war ihr, das heißt wir,
-[22:42:25] Anton: Kinozuschauer sehen, nicht unsere Charaktere haben das geträumt oder so.
-[22:42:27] Michael: Yeah.
-[22:42:39] Michael: No.
-[22:42:41] Handler: Genau, genau. Es geht darum, dass ihr sozusagen auf die Art und Weise, ich muss natürlich das Erzählen noch ein bisschen verbessern, aber dass ja ein das, wenn ihr jetzt den Tatort untersucht, ist das sozusagen das Ergebnis,
-[22:42:42] Handler: dem ihr das hier rausfindet, wie der wie das Ganze abgefangen, abgefangen.
-[22:42:49] Michael: Passiert ist, aber im Dunkeln gelassen wird bei allen Details.
-[22:42:56] Handler: Genau. Und ich tu mir jetzt grade schwer, weil ich habe das in das
-[22:42:56] Handler: Verzeichnis, ich hab das
-[22:43:02] Handler: wie krieg ich jetzt dieses blöde Ding, was ich hoch
-[22:43:07] Handler: geladen habe im Foundry?
-[22:43:07] Handler: Als etwas, was ich euch zeigen kann. Es muss doch im Journal sein.
-[22:43:14] Handler: Und dort lege ich jetzt im Agent Lock
-[22:43:18] Handler: ein entry an.
-[22:43:29] Handler: Ich bin grade überfordert.
-[22:43:33] Stefan: Also ich werd
-[22:43:34] Stefan: auf Google Maps, ich find das nicht.
-[22:43:35] Michael: Mission.
-[22:43:37] Anton: Ich auch.
-[22:43:40] Stefan: Und schreibe ich's wahrscheinlich einfach nur völlig falsch.
-[22:43:45] Handler: Ich hab die Koordinaten im Chat.
-[22:43:49] Handler: Auch die Koordinaten eingeben. Da kommst Du ungefähr da raus. Also ich
-[22:43:50] Handler: das liegt irgendwo in dem auf dem Grundstück.
-[22:43:54] Stefan: Okay.
-[22:43:59] Handler: Also was ich euch zu der Karte sagen kann, ist,
-[22:44:00] Handler: dieses Haus
-[22:44:04] Handler: nein, nein,
-[22:44:09] Handler: Ich weiß grade nicht, welche blöde Taste ich drücken muss.
-[22:44:14] Handler: Ah, ich muss, glaube ich, auf den
-[22:44:15] Handler: Ich bin in Toppen Controls.
-[22:44:23] Handler: Ich dachte alt und linke Taste, nein.
-[22:44:24] Handler: Länger drücken, ah, länger drücken.
-[22:44:32] Anton: Matche nur gerade den Screenshot, den wir sehen.
-[22:44:33] Anton: Noch nicht mit dem, was ich auf der Karte sehe.
-[22:44:35] Michael: Wieso nicht?
-[22:44:36] Anton: Weiß ich nicht.
-[22:44:40] Stefan: In Teen Creek, See, also ich hab's jetzt auch gefunden.
-[22:44:42] Michael: Also ich sehe schon.
-[22:44:46] Stefan: Old Main Street hat das mir verortet.
-[22:44:48] Handler: Mhmm. Jordan.
-[22:44:53] Anton: Ich hab viel, ich muss viel weiter reinzoomen, dann matcht es, ja.
-[22:44:55] Michael: Zur Stadion sieht man gar nicht.
-[22:45:00] Handler: Also das das Problem ist,
-[22:45:05] Handler: dass ich jetzt nicht weiß, ob ihr mein Signal dingens gut sehen könnt, dass ich da grade mache.
-[22:45:07] Handler: Dieses erste Haus
-[22:45:08] Michael: No.
-[22:45:09] Stefan: Warte mal, ich seh auch nur
-[22:45:10] Michael: You see us?
-[22:45:10] Anton: Nein, nicht, kein Signal.
-[22:45:13] Stefan: die Hälfte vom Hintergrund. Das ist, warte, da da da da.
-[22:45:18] Anton: हां हां.
-[22:45:20] Handler: Also es ist dieses das linke Haus, also
-[22:45:22] Handler: dieses Haus
-[22:45:31] Handler: das ist unbewohnt. Also es ist ja so, dass in Stück Louis viele Häuser unbewohnt sind, weil Leute weggezogen
-[22:45:33] Michael: Mhmm.
-[22:45:38] Handler: sind, niemand das Haus dann mehr kaufen will oder so was, also das ist leer? Und das Licht, der Anruf, der da kam, der kam von dem Haus eins
-[22:45:39] Handler: daneben, also hier.
-[22:45:40] Stefan: Okay.
-[22:45:40] Handler: Und
-[22:45:41] Michael: 200 two two one twenty twelve, or was?
-[22:45:45] Handler: ist das seh ich jetzt nicht, aber
-[22:45:47] Michael: Ja, das das ist zweiundzwanzig zwölf. Ich war noch auf
-[22:45:48] Michael: grade.
-[22:45:50] Handler: genau da, wo Du jetzt grade bist. Genau. Und das Auto selber
-[22:45:54] Handler: das stand ungefähr hier.
-[22:45:56] Stefan: Okay.
-[22:45:58] Handler: Also unterhalb dieser Busse oder was ist da?
-[22:46:00] Handler: Da ist.
-[22:46:00] Anton: Mhmm.
-[22:46:05] Handler: Und und man sieht sozusagen, wenn wenn ihr da an dieser Stelle seid,
-[22:46:07] Handler: könnt ihr da rüberschauen und seht das Fenster.
-[22:46:07] Anton: Das ist witzig.
-[22:46:08] Handler: Also ich vorhin beschrieben.
-[22:46:10] Anton: Mhm. Passt.
-[22:46:14] Handler: Dass ich vorhin beschrieben habe, dass dann angegangen ist und
-[22:46:14] Handler: kurze Zeit später dann die Feuerwehr kam und so weiter.
-[22:46:20] Handler: Und hier in der hier unten dieses dieses Braune, da ist diese
-[22:46:21] Anton: Mhmm.
-[22:46:24] Handler: Railroad Bahnstrecke und hier sind halt überall diese Häuser hier drum
-[22:46:28] Anton: Google Maps hat jetzt schon ein neueres Fotos, das Du hast. Das ist lustig.
-[22:46:34] Anton: Yeah.
-[22:46:37] Handler: Hört, das hab ich gestern. Die Fotos hab ich Ach so, nein, der der der Überblick ist älter.
-[22:46:44] Handler: Genau. Da hab ich gestern noch ewig geguckt, für was steht dieses WB? Und es steht wohl für Warren Buffett, der in dieser Gegend wohl irgendwie berühmt geworden ist oder aufgewachsen.
-[22:46:49] Handler: Ist oder weiß ich nicht. Und
-[22:46:50] Handler: die Straße heißt irgendwie doch Morrison Avenue.
-[22:46:51] Michael: Yep.
-[22:46:53] Handler: Also
-[22:46:53] Anton: Yeah.
-[22:46:54] Anton: Yeah.
-[22:47:01] Handler: und unten seht ihr dann sozusagen so Eindrücke, aber vorsichtig
-[22:47:14] Handler: es ist ziemlich kalt, also unter minus neun Grad. Es ist es liegt noch vereinzelt Schnee, also es hat in letzter Zeit nicht geschneit, aber der vereiste Schnee von früher, der liegt hier noch überall rum. Wir haben's Februar und wie gesagt, so wahrscheinlich minus
-[22:47:15] Handler: zwölf Grad oder so was.
-[22:47:22] Handler: Und von links nach rechts seht ihr,
-[22:47:25] Handler: wenn ihr von der oder wie hieß die?
-[22:47:31] Handler: Kommt, also von Westen, fahrt, dann ist links sozusagen das Erste, was ihr seht.
-[22:47:35] Handler: Da seht ihr auch diese beiden Häuser, die da stehen, wo ich grade genannt habe.
-[22:47:44] Handler: Beim Zweiten seht ihr dann schon an der Ecke diesen Traktor. Und das Dritte ist sozusagen der Blick von der Straße
-[22:47:51] Handler: hinein, wo dann diese ausgebrannte Porsche seht, den ihr von dieser Position nicht sehen würdet,
-[22:47:53] Handler: weil der ja irgendwie links hinter dem
-[22:47:56] Handler: genau, links hinter dem Traktor stehen würde.
-[22:48:02] Stefan: Also der Traktor steht an der Ecke von der Morris
-[22:48:04] Stefan: Avenue, wo man dann auch abbiegen muss zum Brand
-[22:48:24] Handler: Genau. Also es geht jetzt nicht darum, dass ihr anhand diese dieses dieser Karte oder sonst irgendwie Details rausfindet, die euch irgendwie Hinweise geben. Es geht darum, dass ihr eine Stimmung dafür bekommt, wie's da in Stück Louis aussieht.
-[22:48:25] Michael: Okay.
-[22:48:29] Handler: Und wie gesagt, ihr müsst halt nur diese Sommerbilder umtauschen in Februar und klirrende Kälte. Und es ist auch klipp
-[22:48:30] Handler: klirrend, entschuldige noch, es ist auch klirrende Kälte für die nächsten zwei Tage angesagt.
-[22:48:31] Stefan: Okay.
-[22:48:33] Michael: But it it's for for
-[22:48:37] Michael: eineinhalb Wochen, da war es gerade nicht so kalt.
-[22:48:41] Handler: Da war's noch nicht so
-[22:48:42] Handler: kalt.
-[22:48:46] Handler: Ja, ich
-[22:48:50] Michael: Das heißt hier ist so Kälteeinbruch jetzt gerade. Ich habe es jedenfalls nicht so wahrgenommen oder mir ist nicht aufgefallen dann.
-[22:48:51] Michael: Spiele.
-[22:48:54] Handler: Genau, es war Februar Februar und ich hatte hier
-[22:49:06] Handler: genau, da war's siebte Acht da war es nur kalt. Also es war Anfang des Monats war es sogar zum Teil noch
-[22:49:10] Handler: komfortabel oder sogar warm.
-[22:49:10] Handler: Und ich kann das euch noch kurz mal hier
-[22:49:20] Handler: So sieht es ungefähr aus.
-[22:49:27] Handler: Also von den von den Temperaturen und wir sind jetzt hier am Achtzehnten,
-[22:49:36] Handler: und da ist es jetzt bitterkat. Also nur vom vom Gefühl her, also es ist jetzt
-[22:49:36] Michael: Yeah.
-[22:49:37] Michael: No.
-[22:49:43] Handler: gehört auch nicht irgendwie zum zum Fall, sondern ihr sollt einfach 'n Gefühl dafür bekommen, wie's da in in Stück Louis ist. Und jetzt auch nicht gucken und sagen, ah Mensch,
-[22:49:48] Handler: steht Traktor oder da ist Auto oder sonst
-[22:49:49] Handler: irgendwas, das ist einfach nur sind einfach nur Stimmungsbilder. Das hat mit dem
-[22:50:05] Michael: Okay, also der Rest der Restschnee noch da oder sauerkalt. Wind ist auch kühl. Das heißt, dass man wird da nur Leute treffen halt mit dick ein
-[22:50:07] Handler: Genau. Aber der Es ist keine
-[22:50:13] Michael: also dick eingepackt, dicker Anurag, Mütze, Handschuhe, fesses Schuhberg, das ist halt so das Stimmungsbild, was wäre da so Vorteile erzielt? Aber die Straßen sind geräumt, ist irgendwie glatt, weil es ist schon hat es länger keinen Schneefall gegeben. Also okay, alles da.
-[22:50:19] Handler: Genau. Und auch die es sind ja auch keine Schneeflächen mehr, sondern Du siehst halt an bestimmten Stellen noch
-[22:50:23] Handler: wo's schattig ist. Da ist noch Schnee, aber woanders ist er schon völlig geschmutzt.
-[22:50:24] Michael: Ja, ist klar.
-[22:50:27] Handler: Gut, so. Und jetzt?
-[22:50:33] Handler: This
-[22:50:34] Stefan: In den Dateien, die der geschickt wird, wie kommt der auf
-[22:50:35] Stefan: Thema Serienmörder? Weil's da Zusammenhänge gibt und
-[22:50:40] Handler: Ich würde dir gerne diese Sache zeigen.
-[22:50:41] Stefan: Okay.
-[22:50:43] Handler: Ich weiß bloß noch nicht, wie ich's mache. Ich habe hier einen
-[22:50:44] Handler: create item.
-[22:50:49] Michael: Eine ganz kurze Frage, wie lange planen wir denn heute
-[22:50:50] Michael: zu spielen?
-[22:50:55] Handler: Also eigentlich machen wir gleich Schluss und ich hätte euch jetzt nur noch gerne diesen Handout
-[22:50:57] Handler: gegeben und es wäre
-[22:50:58] Handler: alles gewesen.
-[22:50:58] Michael: Okay.
-[22:51:03] Handler: Ich mach's vielleicht anders.
-[22:51:06] Handler: Ich sage hier,
-[22:51:09] Handler: einen Teil.
-[22:51:13] Handler: Einen Teil.
-[22:51:19] Handler: Rein tile.
-[22:51:20] Handler: I did.
-[22:51:24] Handler: Ein
-[22:51:27] Stefan: Der Chatverlauf
-[22:51:28] Stefan: bleibt uns erhalten fürs nächste Mal, oder?
-[22:51:32] Handler: Ja, oder Du kannst ihn einfach abspeichern wenden.
-[22:51:33] Handler: Es irgendwie Probleme gibt und
-[22:51:41] Handler: Handouts.
-[22:51:58] Handler: Kann ich jetzt nicht so groß machen, dass man's gut lesen kann.
-[22:52:07] Handler: Das wäre der Report
-[22:52:08] Handler: und ich versuche es einfach noch als
-[22:52:20] Handler: Ihr könnt's lesen oder soll ich's noch bisschen größer machen?
-[22:52:23] Stefan: Nö, geht schon so einigermaßen, glaub ich.
-[22:52:28] Handler: Ich beweg's noch mal.
-[22:52:29] Handler: Und ich könnte es unten noch bisschen
-[22:52:35] Handler: wenn ich da wieder hinkommen würde. Wenn ich hier reinzoome oder raus
-[22:52:36] Handler: geht reinzoomen, geht Ah, ich kann ja einfach nur reinzoomen.
-[22:52:38] Anton: Kannst Du zum
-[22:52:39] Anton: adfront mal hängen, weil ich
-[22:52:42] Anton: wir sind diese Waben halt überall drin, aber es es passt schon.
-[22:52:51] Michael: Yeah. Yeah. That's good. Our update date and time, ist es Usus, dass bei date, also quasi nur der Monat
-[22:52:51] Michael: und das Jahr stehen und dann auch eine Uhrzeit?
-[22:53:18] Michael: Okay. Let's go.
-[22:53:26] Handler: Ich hab das aus einem Handout übernommen. Und die Details Also ich hab zwar stundenlang gebraucht, und mit Photoshop, die auf ein anderes Jahr gemunzen hat, anzusetzen. Wenn ihr irgendwann was anderes als zwanzig fünfundzwanzig lest, zum Beispiel zwanzig elf, dann ist es kein Hinweis auf ein Problem. Und ansonsten sollten euch die Fallnummern auch nicht interessieren. Das ist einfach nur Backend. Es geht Das Wesentliche sind ist der Text und habt auch hier den Namen von dem Sergeant B. Gallows.
-[22:53:27] Handler: Der stimmt, oben bei Leading Officer.
-[22:53:28] Stefan: Mhmm.
-[22:53:32] Handler: Und das Wesentliche ist halt dann eben diese Mädchen dann.
-[22:53:34] Handler: Ich guck jetzt nur noch kurz.
-[22:53:42] Michael: Die Namen, Peggy Weber, Lina Terence und so weiter,
-[22:53:43] Michael: ah, okay. Das ist dann einfach
-[22:53:43] Stefan: Was sind die Fälle unten drunter?
-[22:53:45] Michael: okay. I just
-[22:53:50] Handler: Genau. Also ich sag vielleicht noch kurz vor.
-[22:53:53] Stefan: Und Lena Terence ist die, die ja vermutet in dem brennenden
-[22:53:55] Handler: Mhmm.
-[22:53:58] Stefan: Cayenne?
-[22:53:58] Stefan: Und die anderen Denkter könnten damit zusammenhängen.
-[22:54:03] Handler: Genau. Also wir haben hier sozusagen vier Fälle.
-[22:54:08] Handler: Von Mädchen, die
-[22:54:15] Handler: anscheinend weggelaufen sind, Und hat jetzt das Gefühl, dadurch, dass er jetzt
-[22:54:21] Handler: die Lena Terrence hier gefunden hat, dass er hier ein Muster erkennt und er möchte
-[22:54:30] Handler: dass ihr dann eben ihm sagt, nee, ist kein Muster, er erhört sich. Oder es ist Muster und wie ihr sozusagen an diese
-[22:54:32] Handler: Informationen gehen wollt. Es könnt ihr könnt so machen, dass es einer was vorliest und
-[22:54:37] Handler: dass man das dann
-[22:54:38] Handler: gemeinsam dann gelesen hat und dann wäre das das Ende und dann könnte jeder sich überlegen, was er machen möchte.
-[22:54:41] Handler: Bis zum nächsten Mal.
-[22:54:41] Michael: Mhmm.
-[22:54:46] Handler: Vielleicht liest jeder einen eine einen Absatz.
-[22:54:48] Michael: Okay. Ich fang ja mal.
-[22:54:53] Michael: Peggy Weber dreiundzwanzig, case closed.
-[22:54:59] Michael: Missing, approximately February 17,
-[22:55:18] Michael: 2024, reported missing by the girls family after she failed to return home after her weekly visit with doctor. Allen Rivers, a psychologist specializing in eating disorder. Disorders such as anorexia,
-[22:55:29] Michael: and bulimia, only a brief search conducted. A few days from the incident, the sheriffs were notified by the girl's parents that their peggy called to say
-[22:55:29] Michael: she had moved to Boston.
-[22:55:50] Anton: Lena, one case pending. She disappeared around 08/05/2024. Reported missing by her mother, The case was closed a day later after note was found in Lina's room saying, I can't live here anymore. I'm going to somewhere far away.
-[22:55:56] Anton: There is all the information in the data based that Lina worked
-[22:55:59] Anton: Du müsstest deinen Mauscursor wektun.
-[22:56:03] Anton: At der Gas Station, die ist in Woodland County.
-[22:56:04] Anton: Club and was patient at doctor Rivers Clinic.
-[22:56:10] Stefan: Okay, da oben hieß auch Doktor River oder wie?
-[22:56:11] Michael: Yep.
-[22:56:18] Stefan: Allen River. Okay. Hannah Robinson, 22, case close.
-[22:56:20] Stefan: Missing on January 20.
-[22:56:24] Stefan: 12/2025. Reported missing by work
-[22:56:27] Stefan: colleagues, hostesses at the Avery Club.
-[22:56:34] Stefan: Three days later, club owner Marcus Bricks reported a stone Porsche Cayenne.
-[22:56:43] Stefan: According to the theft report note,
-[22:56:46] Stefan: the car was stolen by employee Hannah Robinson
-[22:56:47] Stefan: along with $10,000.
-[22:56:54] Michael: Mandy Glower 22 case pending
-[22:56:59] Michael: Missing 02/03/2025.
-[22:57:04] Michael: Reported missing by her roommate when many
-[22:57:24] Michael: failed to return from work. The investigation revealed that the same as Hannah, she was a hostess at club at a club in Everie. Since then, the sheriffs have been sending petros to the club from time to time and asking local residents for any information
-[22:57:24] Michael: regarding the whereabouts of the missing girl.
-[22:57:36] Stefan: Tara White 22, case pending.
-[22:57:37] Stefan: Missing 02/10/2025.
-[22:57:48] Stefan: Reported missing by the girl's fiancee She hadn't come home after her night shift
-[22:57:50] Stefan: at the Woodland Country Club.
-[22:57:51] Stefan: Where she worked as a cleaner.
-[22:58:04] Handler: Also dieser Report ist sozusagen jetzt eine Zusammenfassung jetzt für
-[22:58:05] Handler: uns im Spiel von dem, was der Sergeant Gallows aus der Datenbank zusammengestellt
-[22:58:07] Stefan: Mhmm.
-[22:58:14] Handler: Und das, was ihr jetzt da lest, ist sozusagen, indem ihr da drüber lest und es euch sortiert oder so was,
-[22:58:15] Handler: ist das sozusagen die wesentliche Information, die da rauszieht.
-[22:58:24] Anton: Also jung in etwa gleich alt, Ich versteh nicht genau, warum zwei Fälle close
-[22:58:25] Anton: sind und die anderen pending sind, was was
-[22:58:33] Anton: Die sind sind die closed, wo man einen Brief gefunden hat, oder? Nein, stimmt nicht.
-[22:58:36] Michael: Ma'am,
-[22:58:37] Michael: also wo Du zumindest es halt also den genauen
-[22:58:44] Anton: Ja, aber sie sagt ja auch, can't live here anymore. I'm going somewhere far away. Warum ist er pending? Der andere ist
-[22:58:52] Handler: Weil sie gefunden wurde. Sie hat, der war wahrscheinlich closed.
-[22:58:53] Stefan: Mhmm.
-[22:59:02] Handler: Und er hat Ihnen jetzt wieder Pending gemacht, weil sie ja nicht wie dort gemeldet woanders ist. Vielleicht ist sie auch weggelaufen und kam wieder hierher. Auf alle Fälle hat er jetzt den Fall wieder aufgemacht und hat gesagt, aber sie ist ja jetzt hier gefunden worden.
-[22:59:04] Anton: Ne, wie, weil sie gefunden wurde. Wo steht
-[22:59:05] Anton: davon gefunden worden?
-[22:59:06] Stefan: Das ist die im Auto.
-[22:59:07] Handler: This is blocking.
-[22:59:07] Michael: VA is no more.
-[22:59:09] Handler: Inner Terence.
-[22:59:11] Stefan: Die Lena Terence ist die Tote im Cayenne.
-[22:59:13] Michael: K.
-[22:59:14] Anton: Deswegen hat er
-[22:59:22] Stefan: Dem die Hannah Robinson angeblich geklaut hat. Der ist wahrscheinlich, weil Auto geklaut und zehntausend Dollar gestohlen. Also kein Wunder, dass sie weg ist.
-[22:59:25] Stefan: So war wahrscheinlich der Gedanke.
-[22:59:26] Anton: Mhmm.
-[22:59:31] Stefan: Wenn jetzt aber das, ich weiß nicht, lässt sich das schon rauskriegen,
-[22:59:32] Stefan: kriegen, ob der Porsche Cayenne der von dem Markus Bricks ist?
-[22:59:35] Handler: Das müsst ihr wahrscheinlich im Labor dann untersuchen lassen.
-[22:59:36] Anton: Mhmm.
-[22:59:38] Handler: Da wird man dann irgendwie eine Fahrnummer
-[22:59:38] Stefan: Habt ihr Nummernschilder dran?
-[22:59:43] Handler: Ja, hat
-[22:59:45] Handler: Nummernschilder dran, genau. Aber wir wollen die Sache
-[22:59:48] Stefan: Okay, aber da hat er der anderen bestimmt schon nachgeschaut, der der Galos
-[22:59:50] Handler: Ja.
-[22:59:51] Stefan: Nehmen wir das Auto auf
-[23:00:04] Michael: Also wir sollten auf alle Fälle dann mal mit den Eltern von der PEGI Weber sprechen. Oder telefonieren, ob die wirklich noch Kontakt
-[23:00:05] Michael: zu ihr haben, nachdem sie nach innen nach Posten gezogen ist.
-[23:00:11] Anton: Ja, wir sollten die Clubs mal befragen. Die haben alle in irgendwelchen Klubs gearbeitet, Woodlandklub,
-[23:00:12] Anton: Woodlandklub, Everyklub.
-[23:00:19] Stefan: Ja, wir haben schon alle was miteinander zu tun, ne. Also die oberen beiden haben den gleich
-[23:00:20] Anton: Yeah.
-[23:00:25] Stefan: Psychologen, die mittleren beiden, da hat die eine das Auto geklaut, das
-[23:00:28] Stefan: in der die andere gefunden wurde.
-[23:00:29] Stefan: Und dann ist es wieder der Avery Club.
-[23:00:34] Anton: Tankstelle nahe dem Woodland Club, rein
-[23:00:36] Anton: ungskraft im Woodland Club.
-[23:00:37] Anton: Hostesten im Every Club,
-[23:00:44] Stefan: Genau, also die Dritte und Vierte sind dem elben
-[23:00:45] Stefan: Reclub und die fünfte. Wo ist da der der die Verbindung?
-[23:00:49] Stefan: Das ist einfach der Neueste.
-[23:00:50] Michael: Woodland Country Club.
-[23:00:51] Anton: Está mais,
-[23:00:54] Anton: Nein,
-[23:00:54] Michael: Yeah.
-[23:00:57] Stefan: Ja, aber gut, ein Country Club ist nicht der Avery Club, oder?
-[23:00:58] Handler: No. No.
-[23:00:58] Stefan: Ach, auch der ist aber vielleicht der, das kann natürlich sein.
-[23:00:59] Anton: Nine.
-[23:01:01] Handler: That was
-[23:01:04] Anton: Aber es können ja die gleichen Personen in den Klub gehen oder was auch immer.
-[23:01:19] Michael: Aber vielleicht sind die beiden Hostessen so vielleicht ist
-[23:01:21] Michael: sind die ja auch, hatten die auch son bisschen Bulimie, warum aber wenn die jetzt möglichst schlank sein müssen, das wird's möglichst gut aussehen. Also und man hat nur nicht rausgefunden, sie halt Patienten von den Doktor Rovers waren, keine Ahnung. Aber das können wir alles prüfen.
-[23:01:22] Anton: Yeah.
-[23:01:32] Handler: Zum Club möcht ich nur sagen, der Club ist son Nightclub. Und der ist mehr so ein Golf wo Reiche hingehen und Golf spielen können.
-[23:01:35] Stefan: Ach, der Avery Club ist wirklich
-[23:01:38] Stefan: Nachtclub, okay. Ich dachte tatsächlich auch, das wär son
-[23:01:43] Stefan: Okay.
-[23:01:46] Handler: Ich glaub, der every every club
-[23:01:50] Handler: ist Heist Avery Club und ist in Avery.
-[23:01:52] Handler: Also das findet ihr nicht auf der Karte jetzt, weil das ist noch voll. Und wir gehen's
-[23:01:55] Stefan: Genau. Und der Woodland Country Club, der ist auch nicht in Avery und
-[23:01:56] Handler: genau.
-[23:02:08] Stefan: haben eigentlich nix miteinander zu tun. Das heißt, der letzte hätte jetzt erst mal keinen offensichtlichen Zusammenhang außer wieder junges Mädchen ziemlich genau in dem Alter und es ist halt jetzt
-[23:02:09] Stefan: gerade mal acht Tage her.
-[23:02:19] Stefan: Okay. Du hast, glaub ich, grade nach
-[23:02:20] Stefan: nachgeguckt wegen dem Porsche Cayenne. Weiß man da schon, wem der gehört?
-[23:02:23] Anton: Mhmm.
-[23:02:24] Stefan: Okay.
-[23:02:26] Stefan: Okay.
-[23:02:29] Handler: Nein, nein, ich ich möchte davon gar nichts machen. Also ich würde jetzt gerne einfach nur ich will nur, dass Sie dieses Information hat, und dass wir dann an der Stelle weiterarbeiten und das mit dem Dings machen wir dann gleich als
-[23:02:35] Handler: Nächstes. Wenn's dann ist. Ich wollt nur, jetzt ist dreiundzwanzig Uhr.
-[23:02:36] Handler: Wollt jetzt dann da Schluss
-[23:02:36] Stefan: Das ist der Cliffhanger, wo man jetzt aufhört.
-[23:02:37] Handler: Genau.
-[23:02:39] Michael: Not super.
-[23:02:43] Michael: Wann? Next time?
-[23:02:55] Handler: Wird 'n bisschen später werden, weil im Februar andere und ich irgendwie auf der OOP sind und
-[23:02:57] Handler: dann wahrscheinlich frühestens in der letzten Februarwoche.
-[23:02:59] Handler: Okay.
-[23:03:01] Michael: Also ich bin vom
-[23:03:08] Michael: Zwanzigster bis
-[23:03:10] Michael: acht, also zwanzig Punkt vier bis acht März
-[23:03:11] Michael: bin ich im Urlaub.
-[23:03:14] Handler: Okay, good.
-[23:03:15] Handler: Dann vermutlich ist es nachm Urlaub.
-[23:03:16] Michael: Okay.
-[23:03:31] Michael: Ich hätte noch vorher Zeit, aber das könnt ihr entsprechend, also dann noch einstreuen. Ich hab auf eure Zeit, bin ich auf Dienstreise, das heißt ich hätte auch noch bestimmt einigermaßen spontan Zeit.
-[23:03:32] Michael: Wenn es bei euch denn irgendwie passen sollte.
-[23:03:39] Handler: Aber wie gesagt, nächste Woche, glaub ich, ist
-[23:03:40] Handler: Dann ist in der KW sieben die OOP.
-[23:03:57] Handler: Und da werd ich irgendwie bei der Vorbereitung, ich muss jetzt noch paar Sachen vorbereiten. Wenn ihr natürlich wisst, dass ihr sagt, ach Mensch, als Nächstes möcht ich als erstes Mal, weiß ich nicht, in Every Club oder den Rivers oder sonst irgendwas, dann kann es mir helfen, dass ich sage, okay, dann bereit ich den Teil vor.
-[23:04:00] Handler: Und mach den anderen Teil später.
-[23:04:15] Michael: Ja, so, so ist natürlich auf alle Fälle sehr heißer Kandidat. Also ich glaube, ist wirklich das heißeste, bevor man irgendwie da beim Doktor Rivers aufschlägt. Also ich würde wahrscheinlich auch eher
-[23:04:26] Stefan: Just
-[23:04:29] Michael: erst mit den Every Club mir anschauen, beziehungsweise vielleicht dann halt auch von dem neuesten Fall dann mit dem Verlobten da sprechen, weil das ist erst einmal alles unverbindlich
-[23:04:47] Anton: Ja, ich würde beide Clubs machen, weil der andere gibt's ja das gleiche Reinigungspersonal oder die gleiche Firma, die Getränke liefert in diesem Klapp. Vielleicht gibt's irgendwas, was diese beiden Klapp auch gemeinsam haben. Dann hätten wir nicht schon eine Gemeinsamkeit, glaub ich, zwischen allen Mächen.
-[23:04:49] Anton: Weil in irgendeinem Klapp in der Nähe, in der Tankstelle hat die eine gearbeitet,
-[23:04:55] Anton: Das heißt, wenn so ein Reinigungsdienst vorher tankt oder also es kann
-[23:04:59] Anton: könnte irgendwie 'n Täterprofil passen, der was mit Klaps zu tun hat.
-[23:05:00] Anton: Und alle sind in der Nähe von irgendwelchen Clubs oder waren in dem Club.
-[23:05:04] Stefan: Ja, wir sollten
-[23:05:06] Stefan: unbedingt mit dem vier und c reden, weil
-[23:05:09] Stefan: das ist halt noch nicht lange her.
-[23:05:10] Stefan: Also da kann man vielleicht auch noch was verhindern.
-[23:05:14] Stefan: Und wir kapieren noch nicht genau, wie da der Link ist. Vielleicht könnt ihr uns ja was erzählen,
-[23:05:17] Anton: Nope.
-[23:05:19] Handler: Good.
-[23:05:21] Stefan: Und ja, natürlich zum Schluss müssen wir ja jeder
-[23:05:26] Stefan: jeder
-[23:05:31] Michael: Und wie gesagt, und und auf alle Fälle halt, weil das geht ja wahrscheinlich relativ schnell, dann Kontakt mal mit den Eltern
-[23:05:53] Michael: von der Peggy Weber gerne aufnehmen wollen. Oder halt über die Zentrale aufnehmen lassen, keine Ahnung, dass die rausfinden halt. Die Telefonnummerleistung dann, die uns das halt angeben, und wir uns dann bei denen einfach mal rühren und da einfach mal Fragen stellen können, weil das geht, glaube ich, relativ schnell und ist relativ schnell abgehandelt und da haben wir
-[23:05:55] Michael: vielleicht so ein paar Anknüpfungspunkte oder ein paar Grundmuster, nachdem wir
-[23:05:56] Michael: müssen über den anderen Sachen.
-[23:05:58] Handler: Also,
-[23:06:03] Stefan: Ich frag mal den Gellos, die Abschiedsbriefe und so.
-[23:06:04] Handler: the the best
-[23:06:04] Stefan: Sind die da Asservaten? Kann man da
-[23:06:05] Handler: aber Moment, ihr seid noch nicht vor Ort.
-[23:06:09] Stefan: Ach so,
-[23:06:10] Stefan: I will look. Okay. Yeah. Yeah. That's
-[23:06:13] Handler: Aber was nee, aber aber aber wenn Du jetzt eine Frage stellen willst, die vielleicht ausm Kontext dich
-[23:06:14] Handler: sagen kann, kannst Du eine Idee machen.
-[23:06:19] Stefan: Nee, das machen wir dann des das nächste Mal. Ich würd natürlich trotzdem dann gerne die
-[23:06:24] Stefan: Briefe untersuchen.
-[23:06:25] Stefan: Ob die irgendwie eine gemeinsame DNA plötzlich haben oder irgendwie so was.
-[23:06:26] Handler: Welche Briefe?
-[23:06:29] Stefan: Na, die eine hat doch Brief geschrieben,
-[23:06:31] Michael: Does he want us in seat?
-[23:06:36] Handler: Mhmm.
-[23:06:38] Stefan: dass sie dass sie weggezogen ist.
-[23:06:38] Stefan: Und die andere, I can't live here anymore. I'm going somewhere far away.
-[23:06:47] Stefan: Jetzt ist die Frage, haben die Eltern die Briefe vom Closed Fall oder ist der im Pending Fall wahrscheinlich noch bei der Polizei in der
-[23:06:54] Stefan: kammer, ne? Ich würd die gerne durchsuchen, ob die eine Gemeinsamkeit haben.
-[23:06:55] Stefan: Gleicher Kunden, gleiches Papier, gleiche DNA, irgendwas.
-[23:06:56] Handler: Ich seh den ersten Brief noch nicht. Kannst
-[23:06:57] Handler: kannst Du mir den ersten Brief sagen?
-[23:07:00] Michael: Es war angerufen nur.
-[23:07:00] Stefan: Ich dachte,
-[23:07:04] Handler: A brief search conducted.
-[23:07:08] Handler: Ein ein eine kurze Suche wurde nur durchgeführt.
-[23:07:09] Handler: Du das?
-[23:07:18] Stefan: She failed to return
-[23:07:19] Stefan: Ich dachte, es gäbe noch eine, die eine ist weggezogen, dacht ich. Hä?
-[23:07:22] Michael: Ja, die andere hat angerufen. Also eine hat angerufen und die andere hat's
-[23:07:23] Michael: geschrieben, dass sie wegziehen.
-[23:07:27] Stefan: The sheriffs were notified that the girl's parents
-[23:07:30] Handler: Okay.
-[23:07:32] Stefan: that Peggy called, okay,
-[23:07:33] Stefan: to say she had moved to Boston.
-[23:07:35] Stefan: Okay.
-[23:07:37] Michael: Also Arbeitshypothese,
-[23:07:46] Michael: Doktor Rivers, der hat ja bestimmt auch Zugang zu irgendwelchen Psychopharmaka,
-[23:08:08] Michael: Der kann auch mal was in einen Drink mischen, hat entweder die Mädels quasi bei sich schon eh schon in der Gewalt mehr oder weniger oder ist auch ein Klub gänger, hat bestimmt Kohle und kann da vielleicht auch über so die Diskodrogen halt vielleicht dann die gefügig machen. Das würde zum Beispiel für die drei Duchs sprechen, wo man bestimmt halt irgendwie
-[23:08:09] Michael: jemand aufn Drink einladen kann et cetera.
-[23:08:10] Michael: Genau.
-[23:08:14] Stefan: Ja, klar, k-o-Tropfel oder so.
-[23:08:14] Michael: In so einer Richtung könnte das ja sein.
-[23:08:37] Michael: Okay, gut. Also für einen Roberts, damit er es leichter hat, also den Fall eins würden wir abklären telefonisch mal. Wie das so der aktuelle Sachstand ist, ob die Eltern wirklich jetzt Kontakt noch haben zu dir im Boston oder ob die dann
-[23:08:38] Michael: danach den Kontakt komplett abgebrochen hat. Könnte die aussehen?
-[23:08:43] Handler: Wenn ihr Home Int oder so was machen wollt, ist es natürlich besser, wenn ihr persönlich da seid.
-[23:08:46] Stefan: Ich wollte auch sagen, ich glaube, die sind alle aus dieser Stadt.
-[23:08:47] Handler: Aus dieser Umgebung, ja. Also
-[23:08:51] Stefan: Oder jedenfalls aus der Zuständigkeit von der Farmer hin. Das
-[23:08:52] Michael: Yeah.
-[23:08:53] Stefan: genau.
-[23:08:57] Michael: Aber dann würde ich fast sagen,
-[23:09:07] Handler: Also es ihr müsst es mir nicht heute sagen, wenn ihr jetzt mal paar Wochen da irgendwie beim Duschen mal drüber nachdenkt oder so was,
-[23:09:11] Handler: könnt ihr ja irgendwie dann, wenn ihr mir eine Woche oder so
-[23:09:11] Handler: vor unserem Termin oder zwei Wochen vor dem Termin, dann sagt dann,
-[23:09:34] Michael: Na, aber ich glaube trotzdem, also dass das wahrscheinlich ist, wie der Stefan schon gesagt hat, dass der letzte Fall der Akuteste ist. Das sollten wir zuerst hinfahren wahrscheinlich und sprechen. Weil man da vielleicht irgendwas retten kann und was einem direkt auffällt möglicherweise, Und dann würde ich mit dem ersten Fall anfangen,
-[23:09:44] Michael: weil es vielleicht auch von der Informationslage einigermaßen gut abprüfbar ist. Wie momentan die Sachlage da ist. Also mit, ist wirklich in Boston, oder ist der Kontakt abgebrochen und so genau ist es der Eltern auch nicht.
-[23:09:46] Michael: Also das würde mich da interessieren und dann kommt der Avery Club.
-[23:09:53] Stefan: Ja und und bei der Lena, der
-[23:09:57] Stefan: Ich mein, da haben wir handfestes Beweisstück.
-[23:10:01] Stefan: Das kann man halt mal untersuchen, ja. Ja, und die war ja anscheinend
-[23:10:02] Stefan: behauptet der Coroner, die verbrannte im Auto.
-[23:10:06] Stefan: Also es ist ein buchstäblich heißer Fall.
-[23:10:08] Handler: Nine truly one nine is the behaupted the sergeant.
-[23:10:12] Stefan: Okay, wissen wir, warum er's behauptet?
-[23:10:14] Handler: Noch nicht.
-[23:10:15] Stefan: Okay.
-[23:10:21] Stefan: Dass in dem Also es ging doch um den
-[23:10:21] Stefan: brennenden Cayenne.
-[23:10:23] Stefan: Genau.
-[23:10:23] Michael: Also das war. Okay.
-[23:10:27] Michael: Okay, gut.
-[23:10:32] Michael: Also, every club würde dann erst zu der Mitte kommen.
-[23:10:33] Handler: Mhmm.
-[23:10:41] Handler: Mhmm.
-[23:10:43] Michael: Also letzter Fall, erster Fall, und Briefe. Und dann würde der Average
-[23:10:44] Michael: kommen und am Schluss hat der der der Woodland Club.
-[23:10:49] Stefan: Der Markus Bricks, dem sein Auto ist es, ne? Und das ist der
-[23:10:50] Stefan: Besitzer vom Avery Club.
-[23:10:52] Michael: Yep.
-[23:10:56] Stefan: Könnte auch einen
-[23:10:57] Stefan: Verdächtiger sein.
-[23:10:58] Stefan: Genau. Genau.
-[23:11:00] Michael: Yeah. I already have sent. No. Okay.
-[23:11:01] Michael: Good.
-[23:11:02] Anton: Super.
-[23:11:04] Handler: Gut. Alles klar.
-[23:11:06] Michael: Sehr gerne.
-[23:11:07] Handler: Dann dank ich euch.
-[23:11:10] Michael: Und ja, wir hören uns hoffentlich noch vor mitm Urlaub.
-[23:11:12] Michael: Ich werde mich aber befreien.
-[23:11:18] Handler: Schauen wir mal, aber wahrscheinlich nicht zum Spiel.
-[23:11:22] Michael: Womit? Bisschen.
-[23:11:23] Michael: Wir können Sie aber bei zwei Stunden belassen, dann
-[23:11:27] Handler: Ja, wenn ihr mit Peggy anfangen
-[23:11:30] Michael: Nein, nicht Peggy, wir fangen mit Tara weiter.
-[23:11:31] Handler: wollt, da muss ich alles vorbereiten. Nein, das
-[23:11:33] Michael: You know,
-[23:11:34] Handler: Ja, Fianzi. Der, genau, Verlobte.
-[23:11:36] Michael: Und dann Peggy.
-[23:11:40] Michael: Genau. Na gut.
-[23:11:40] Handler: Okeydoke.
-[23:11:41] Michael: Alles klar.
-[23:11:41] Anton: Okay.
-[23:11:41] Handler: Dann
-[23:11:42] Michael: Done.
-[23:11:42] Handler: macht's es gut.
-[23:11:43] Michael: You're quitting?
-[23:11:45] Stefan: Es gibt eine Nachtschicht in diesem Klub.
-[23:11:47] Michael: You're in.
-[23:11:49] Stefan: Du sagst, es ist ein Golfklub und die haben eine Nachtschicht.
-[23:11:52] Anton: Sachen gibt's.
-[23:11:53] Michael: Ah, das will ich.
-[23:11:54] Handler: Als cleaner. Als cleaner.
-[23:11:56] Handler: Die die Reinigungspersonen kommen doch nachts.
-[23:11:58] Stefan: Ach, cleaner. Okay. Ja, ja, okay.
-[23:12:00] Handler: Okay.
-[23:12:01] Anton: Ciao, bitte.
-[23:12:02] Stefan: Okay.
-[23:12:03] Michael: Ciao, siamo.
-[23:12:04] Handler: After's good. Servus. Ciao, ciao.
-[23:12:04] <<< Michael left the meeting
-[23:12:04] <<< Anton left the meeting
-[23:12:04] Stefan: So I'll stop.
+
 [23:12:12] <<< Stefan left the meeting
+
+
 [23:12:26] <<< Handler left the meeting
+
 [23:12:37] >>> Handler joined the meeting
 
 
@@ -3146,12 +2420,12 @@ Meeting ended - 2026-01-29 23:13:30
 
 --- Statistics ---
 Total participants: 4
-Total turns: 3026
-Total words: 27812
+Total turns: 3032
+Total words: 27947
 
 Per participant:
   Anton: 3282 words, 435 turns
-  Handler: 13866 words, 1316 turns
-  Michael: 5062 words, 579 turns
-  Stefan: 5602 words, 696 turns
+  Handler: 13863 words, 1317 turns
+  Stefan: 5667 words, 698 turns
+  Michael: 5135 words, 582 turns
 ================================================================================
