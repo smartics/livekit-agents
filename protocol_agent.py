@@ -32,7 +32,7 @@ import threading
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
+from typing import IO, Any
 
 from dotenv import load_dotenv
 
@@ -282,10 +282,14 @@ class MultiParticipantProtocol:
         self.json_file = config.protocols_dir / f"{base_name}.jsonl"
         self.stats_file = config.protocols_dir / f"{base_name}_stats.json"
 
+        # File handles - kept open to avoid "Too many open files" error
+        self._txt_handle: IO | None = None
+        self._json_handle: IO | None = None
+
         self._initialized = False
 
     def initialize(self):
-        """Initialize protocol files with headers (synchronous)."""
+        """Initialize protocol files with headers and keep file handles open."""
         if self._initialized:
             return
         self._initialized = True
@@ -293,9 +297,13 @@ class MultiParticipantProtocol:
         with self._write_lock:
             if self.config.output_format in ["txt", "both"]:
                 self._write_txt_header()
+                # Keep file handle open for subsequent writes
+                self._txt_handle = open(self.txt_file, "a", encoding="utf-8")
 
             if self.config.output_format in ["json", "both"]:
                 self._write_json_header()
+                # Keep file handle open for subsequent writes
+                self._json_handle = open(self.json_file, "a", encoding="utf-8")
 
         logger.info(f"Protocol files created: {self.txt_file.stem}")
 
@@ -479,10 +487,10 @@ class MultiParticipantProtocol:
         logger.info("Protocol manager closed")
 
     def _finalize_protocol_files(self):
-        """Add footer to protocol files and save statistics (synchronous)."""
+        """Add footer to protocol files, save statistics, and close file handles."""
         with self._write_lock:
-            # Write TXT footer
-            if self.config.output_format in ["txt", "both"]:
+            # Write TXT footer and close handle
+            if self._txt_handle:
                 footer = (
                     "\n" + "=" * 80 + "\n" +
                     f"Meeting ended - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
@@ -499,17 +507,19 @@ class MultiParticipantProtocol:
 
                 footer += "=" * 80 + "\n"
 
-                with open(self.txt_file, "a", encoding="utf-8") as f:
-                    f.write(footer)
+                self._txt_handle.write(footer)
+                self._txt_handle.close()
+                self._txt_handle = None
 
-            # Write JSON footer
-            if self.config.output_format in ["json", "both"]:
+            # Write JSON footer and close handle
+            if self._json_handle:
                 footer_entry = {
                     "type": "footer",
                     "ended_at": get_timestamp()
                 }
-                with open(self.json_file, "a", encoding="utf-8") as f:
-                    f.write(json.dumps(footer_entry) + "\n")
+                self._json_handle.write(json.dumps(footer_entry) + "\n")
+                self._json_handle.close()
+                self._json_handle = None
 
             # Save statistics file
             if self.config.enable_statistics:
@@ -656,13 +666,13 @@ class MultiParticipantProtocol:
 
         with self._write_lock:
             # Write to TXT file
-            if self.config.output_format in ["txt", "both"]:
+            if self._txt_handle:
                 txt_line = f"[{timestamp}] {participant}: {text}\n"
-                with open(self.txt_file, "a", encoding="utf-8") as f:
-                    f.write(txt_line)
+                self._txt_handle.write(txt_line)
+                self._txt_handle.flush()
 
             # Write to JSONL file
-            if self.config.output_format in ["json", "both"]:
+            if self._json_handle:
                 json_entry = {
                     "type": "transcript",
                     "timestamp": timestamp,
@@ -670,14 +680,14 @@ class MultiParticipantProtocol:
                     "text": text,
                     "word_count": len(text.split())
                 }
-                with open(self.json_file, "a", encoding="utf-8") as f:
-                    f.write(json.dumps(json_entry) + "\n")
+                self._json_handle.write(json.dumps(json_entry) + "\n")
+                self._json_handle.flush()
 
     def _write_participant_event(self, timestamp: str, participant: str, event_type: str):
         """Write a participant join/leave event to the protocol files (synchronous)."""
         with self._write_lock:
             # Write to TXT file
-            if self.config.output_format in ["txt", "both"]:
+            if self._txt_handle:
                 if event_type == "joined":
                     txt_line = f"[{timestamp}] >>> {participant} joined the meeting\n\n"
                 elif event_type == "idle_timeout":
@@ -687,19 +697,19 @@ class MultiParticipantProtocol:
                 else:
                     txt_line = f"\n[{timestamp}] <<< {participant} left the meeting\n\n"
 
-                with open(self.txt_file, "a", encoding="utf-8") as f:
-                    f.write(txt_line)
+                self._txt_handle.write(txt_line)
+                self._txt_handle.flush()
 
             # Write to JSONL file
-            if self.config.output_format in ["json", "both"]:
+            if self._json_handle:
                 json_entry = {
                     "type": "event",
                     "timestamp": timestamp,
                     "participant": participant,
                     "event": event_type
                 }
-                with open(self.json_file, "a", encoding="utf-8") as f:
-                    f.write(json.dumps(json_entry) + "\n")
+                self._json_handle.write(json.dumps(json_entry) + "\n")
+                self._json_handle.flush()
 
 
 # =============================================================================
