@@ -34,6 +34,23 @@ sessions/
 
 **Konventionen:** Frontmatter mit `title/type/subtype/case/tags/created/updated`; Wikilinks klein-mit-bindestrich (`[[tara-white]]`); Bilder in `images/`-Subfolder; Portrait via `portrait:`, Orts-Bild via `cover_image:`; Embed `![[datei.png|320]]`. Details: Memory `project_obsidian_vault`.
 
+## 2a. Records-Konvention (offizielle Dokumente)
+
+Zu **jedem offiziellen Dokument** (Polizeibericht, Obduktion, Forensik-Bericht, DNA-Report …) gehört
+**genau eine Akte** unter `records/fall-1/`, die den **Originalinhalt 1:1 wiedergibt** — ein reines
+**Wortlaut-/„Übersetzungs"-Dokument** (Original bzw. wortgetreue deutsche Übersetzung, Struktur des
+Originals beibehalten, **keine** Interpretation).
+
+- **Aufbau:** `## Originaldokument (Wortlaut 1:1)` als Kern. Darunter optional weitere Kapitel —
+  aber **Analyse, Schlussfolgerungen und Querverweise gehören woanders hin** (`quellen-map`,
+  `ermittlungsstand`, Personen-/Orts-Notizen), **nicht** in die Akte dupliziert. Falls Verweise nötig:
+  klar getrennte Sektion „Bezug (nicht Teil des Originals)".
+- **Scan/Bild:** nach `records/fall-1/images/<name>.png`, im Frontmatter `cover_image:` setzen.
+- **Frontmatter:** `type: record`, `subtype:` (`police_report|autopsy|forensics_report|dna_report|…`),
+  `author:`, `immutable: true`, `status:` (z. B. `original_ausstehend`).
+- Liegt das Original noch nicht vor → Akte als Gerüst anlegen (`## Originaldokument` = Platzhalter)
+  und in [[fehlende-ressourcen]] führen. Beispiel: `records/fall-1/porsche-forensik.md`.
+
 ## 3. Session-Ergebnis einarbeiten
 
 1. **Rohtranskript** (aus Protocol-Agent, siehe [protocol-agent-betrieb.md](protocol-agent-betrieb.md)) → `records/sessions/session-NN/transcript.md` (immutable). Dazu `zusammenfassung`, `overview` (Release-Notes-Stil), `next-steps`.
