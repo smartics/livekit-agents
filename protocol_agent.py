@@ -750,6 +750,16 @@ async def entrypoint(ctx: JobContext):
 
     # Connect to the room (subscribe to audio only)
     await ctx.connect(auto_subscribe=AutoSubscribe.AUDIO_ONLY)
+
+    # The Foundry avclient-livekit module runs JSON.parse() over every
+    # participant's metadata in onConnected/addAllParticipants. An empty
+    # metadata string (our default) makes it throw "Unexpected end of JSON
+    # input", which aborts the module's connect handler *before* it publishes
+    # the local user's microphone track -> nobody can hear anyone while the
+    # agent is in the room. Setting valid JSON makes the Foundry clients skip
+    # our agent participant cleanly.
+    await ctx.room.local_participant.set_metadata("{}")
+
     logger.info(f"Connected to room: {ctx.room.name}")
 
     # Handle participants already in the room
