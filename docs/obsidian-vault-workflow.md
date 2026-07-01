@@ -95,6 +95,7 @@ Originals beibehalten, **keine** Interpretation).
 → Diese drei sind die ersten Anlaufstellen, wenn Anton fragt „was fehlt noch?" oder Material liefert.
 
 ## Verwandte Docs
+- `sessions/meta/workflow.md` — **Detail-SOP** zum Einpflegen einer Session (Phasen 0–7, inkl. Kuratierungs-Gate); `sessions/meta/rules.md` — alle Konventionen + Ironie-Regel
 - [protocol-agent-betrieb.md](protocol-agent-betrieb.md) — wie die Transkripte (Rohdaten) entstehen
 - `sessions/live/README.md` — Foundry-Chat/Bilder spoiler-sicher exportieren (Makro + ZIP)
 - [html-abzug.md](html-abzug.md) — gestylte HTML-Session-Dokumente
